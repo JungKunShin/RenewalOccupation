@@ -12,8 +12,8 @@
 ### 📹 프로젝트 영상 링크<br>
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;&nbsp;
-[리뉴얼 후 점령전 플레이영상](https://youtu.be/eJB83VBuzRg "리뉴얼점령전 영상")
-[리뉴얼 전 점령전 플레이영상](https://youtu.be/Kvh-vPBiEpQ "원조점령전 영상")
+- [리뉴얼 후 점령전 플레이영상](https://youtu.be/eJB83VBuzRg "리뉴얼점령전 영상")
+- [리뉴얼 전 점령전 플레이영상](https://youtu.be/Kvh-vPBiEpQ "원조점령전 영상")
 <br><br><br>
 
 ## 📆 개발기간
