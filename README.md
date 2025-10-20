@@ -30,7 +30,7 @@
   - Battle System(BaseStructure(Actor) 기반)
 - Data Handling : SaveGame
 - VFX / SFX : Sound Wave, Audio Component
-- Tools : Blueprint, Material Editor, Media Player etc
+- Tools : Blueprint, Material Editor, Media Player, Material Instance Dynamic etc
 <br><br>
 
 ## 🔧 주요 기술
